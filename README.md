@@ -2,15 +2,21 @@
 
 <!--
 **pishkim/pishkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+ABOUT ME:
+Being able to solve real world challengesis a big motivator for me. Active involvement in being part of a solution using my passion is the thrusting for me my work as i work to become better.
+
+# Language:📖📕
+PHP
+JAVASCRIPT
+PYTHON
+SHELL
+HTML/CSS
+
+🌱 I’M CURRENTLY LEARNING ...
+PYTHON
+
+# 💬 ASK ME ABOUT TECH..
+- 📫 How to reach me: kimanipeter907@gmail.com
+- ⚡ Fun fact: Coding is my passion.
+
