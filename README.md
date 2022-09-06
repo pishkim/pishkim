@@ -7,10 +7,10 @@ ABOUT ME:
 Being able to solve real world challengesis a big motivator for me. Active involvement in being part of a solution using my passion is the thrusting for me my work as i work to become better.
 
 # Language:📖📕
-PHP
-JAVASCRIPT
-PYTHON
-SHELL
+PHP,
+JAVASCRIPT,
+PYTHON,
+SHELL,
 HTML/CSS
 
 🌱 I’M CURRENTLY LEARNING ...
