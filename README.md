@@ -18,5 +18,7 @@ PYTHON
 
 # 💬 ASK ME ABOUT TECH..
 - 📫 How to reach me: kimanipeter907@gmail.com
+-OR linked in as:www.linkedin.com/in/ 
+peter-kimani-350217190
 - ⚡ Fun fact: Coding is my passion.
 
